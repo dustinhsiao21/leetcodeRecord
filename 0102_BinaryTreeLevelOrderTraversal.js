@@ -69,5 +69,5 @@ tree.right = new TreeNode(20);
 tree.right.left = new TreeNode(15);
 tree.right.right = new TreeNode(7);
 
-//output = [1, 3, 2];
+//output = [[3], [9, 20], [15, 7]];
 console.log(levelOrder(tree));

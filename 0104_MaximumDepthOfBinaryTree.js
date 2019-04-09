@@ -50,5 +50,5 @@ tree.right = new TreeNode(20);
 tree.right.left = new TreeNode(15);
 tree.right.right = new TreeNode(7);
 
-//output = [[3], [9, 20], [15, 7]];
+//output = 3;
 console.log(maxDepth(tree));
