@@ -35,7 +35,7 @@ var hasPathSum = function(root, sum) {
     return hasPathSum(root.left, sum - root.val) || hasPathSum(root.right, sum - root.val);
 };
 
-//input = [1, null, 2, 3];
+//input = [5, 4, 8, 11, null, 13, 4, 7, 2, null, null, null, 1];
 let tree = new TreeNode(5);
 tree.left = new TreeNode(4);
 tree.right = new TreeNode(8);
@@ -51,5 +51,5 @@ tree.right.right.right = new TreeNode(1);
 tree.right.right.left = null;
 
 
-//output = [1, 2, 3];
+//output = true;
 console.log(hasPathSum(tree, 22));
