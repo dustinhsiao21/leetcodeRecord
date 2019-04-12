@@ -12,4 +12,5 @@ My Javascript solutions on leetcode
 | 112  | [Path Sum](0112_PathSum.js)                                  | Easy       | Tree, DFS               |
 | 144  | [Binary Tree Preorder Traversal](0144_BinaryTreePreorderTraversal.js) | Medium     | Stack, Tree             |
 | 145  | [Binary Tree Postorder Traversal](0145_BinaryTreePostorderTraversal.js) | Hard       | Stack, Tree             |
+| 622  | [Design Circular Queue](0622_DesignCircularQueue.js)         | Medium     | Design, Quene           |
 
