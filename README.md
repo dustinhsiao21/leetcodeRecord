@@ -4,6 +4,7 @@ My Javascript solutions on leetcode
 | No.  | title                                                        | Difficulty | Related Topics          |
 | ---- | ------------------------------------------------------------ | ---------- | ----------------------- |
 | 1    | [Two Sum](0001_twoSum.js)                                    | Easy       | Hash table, Array       |
+| 7    | [Reverse Integer](0007_ReverseInteger.js)                    | Easy       | Math                    |
 | 94   | [Binary Tree Inorder Traversal](0094_BinaryTreeInorderTraversal.js) | Medium     | Hash Table, stack, Tree |
 | 101  | [Symmetric Tree](0101_SymmetricTree.js)                      | Easy       | Tree, DFS, BFS          |
 | 102  | [Binary Tree Level Order Traversal](0102_BinaryTreeLevelOrderTraversal.js) | Medium     | Tree, BFS               |
@@ -13,4 +14,3 @@ My Javascript solutions on leetcode
 | 144  | [Binary Tree Preorder Traversal](0144_BinaryTreePreorderTraversal.js) | Medium     | Stack, Tree             |
 | 145  | [Binary Tree Postorder Traversal](0145_BinaryTreePostorderTraversal.js) | Hard       | Stack, Tree             |
 | 622  | [Design Circular Queue](0622_DesignCircularQueue.js)         | Medium     | Design, Quene           |
-
