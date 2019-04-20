@@ -18,5 +18,6 @@ My Javascript solutions on leetcode
 | 144  | [Binary Tree Preorder Traversal](0144_BinaryTreePreorderTraversal.js) | Medium     | Stack, Tree             |
 | 145  | [Binary Tree Postorder Traversal](0145_BinaryTreePostorderTraversal.js) | Hard       | Stack, Tree             |
 | 200  | [Number of Islands](0200_NumberOfIslands.js)                 | Medium     | DFS, BFS, Union Find    |
+| 279  | [Perfect Squares](0279_PerfectSquares.js)                    | Medium     | Math, DP, BFS           |
 | 622  | [Design Circular Queue](0622_DesignCircularQueue.js)         | Medium     | Design, Quene           |
 | 752  | [Open The Lock](0752_OpenTheLock.js)                         | Medium     | BFS                     |
