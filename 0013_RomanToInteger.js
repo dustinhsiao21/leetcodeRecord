@@ -73,4 +73,6 @@ var romanToInt = function(s) {
 
 //inputs
 let romanNumerals = 'MCMXCIV';
+
+//output = 1994
 console.log(romanToInt(romanNumerals));

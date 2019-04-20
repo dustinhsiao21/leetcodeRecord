@@ -32,4 +32,7 @@ var longestCommonPrefix = function(strs) {
 };
 
 //inputs
-["flower","flow","flight"];
+let inputs = ["flower","flow","flight"];
+
+//output: 'fl'
+console.log(longestCommonPrefix(inputs));
