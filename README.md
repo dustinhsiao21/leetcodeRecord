@@ -19,3 +19,4 @@ My Javascript solutions on leetcode
 | 145  | [Binary Tree Postorder Traversal](0145_BinaryTreePostorderTraversal.js) | Hard       | Stack, Tree             |
 | 200  | [Number of Islands](0200_NumberOfIslands.js)                 | Medium     | DFS, BFS, Union Find    |
 | 622  | [Design Circular Queue](0622_DesignCircularQueue.js)         | Medium     | Design, Quene           |
+| 752  | [Open The Lock](0752_OpenTheLock.js)                         | Medium     | BFS                     |
