@@ -9,6 +9,7 @@ My Javascript solutions on leetcode
 | 13   | [Roman to Integer](0013_RomanToInteger.js)                   | Easy       | Math, String            |
 | 14   | [Longest Common Prefix](0014_LongestCommonPrefix.js)         | Easy       | String                  |
 | 20   | [Valid Parenthese](0020_ValidParenthese.js)                  | Easy       | String, Stack           |
+| 21   | [Merge Two Sorted Lists](0021_MergeTwoSortedLists.js)        | Easy       | Linked List             |
 | 94   | [Binary Tree Inorder Traversal](0094_BinaryTreeInorderTraversal.js) | Medium     | Hash Table, stack, Tree |
 | 101  | [Symmetric Tree](0101_SymmetricTree.js)                      | Easy       | Tree, DFS, BFS          |
 | 102  | [Binary Tree Level Order Traversal](0102_BinaryTreeLevelOrderTraversal.js) | Medium     | Tree, BFS               |
