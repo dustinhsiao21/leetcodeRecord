@@ -11,7 +11,7 @@ My Javascript solutions on leetcode
 | 20   | [Valid Parenthese](0020_ValidParenthese.js)                  | Easy       | String, Stack           |
 | 21   | [Merge Two Sorted Lists](0021_MergeTwoSortedLists.js)        | Easy       | Linked List             |
 | 26   | [Remove Duplicates from Sorted Array](0026_RemoveDuplicatesfromSortedArray.js) | Easy       | Array, Two Pointers     |
-|      |                                                              |            |                         |
+| 27   | [Remove Element](0027_RemoveElement.js)                      | Easy       | Array, Two Pointers     |
 | 94   | [Binary Tree Inorder Traversal](0094_BinaryTreeInorderTraversal.js) | Medium     | Hash Table, stack, Tree |
 | 101  | [Symmetric Tree](0101_SymmetricTree.js)                      | Easy       | Tree, DFS, BFS          |
 | 102  | [Binary Tree Level Order Traversal](0102_BinaryTreeLevelOrderTraversal.js) | Medium     | Tree, BFS               |
