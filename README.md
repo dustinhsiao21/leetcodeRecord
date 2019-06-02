@@ -26,5 +26,6 @@ My Javascript solutions on leetcode
 | 200  | [Number of Islands](0200_NumberOfIslands.js)                 | Medium     | DFS, BFS, Union Find         |
 | 279  | [Perfect Squares](0279_PerfectSquares.js)                    | Medium     | Math, DP, BFS                |
 | 344  | [Reverse String](0344_Reverse_String.js)                     | Easy       | Two Pointer, String          |
+| 412  | [Fizz Buzz](0412_Fizz_Buzz.js)                               | Easy       |                              |
 | 622  | [Design Circular Queue](0622_DesignCircularQueue.js)         | Medium     | Design, Quene                |
 | 752  | [Open The Lock](0752_OpenTheLock.js)                         | Medium     | BFS                          |
